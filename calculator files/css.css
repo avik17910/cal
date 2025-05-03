@@ -1,0 +1,12 @@
+.cal{
+    height: 220px;
+    width: 200px;
+    background-color: bisque;
+}
+
+
+button{
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+}
